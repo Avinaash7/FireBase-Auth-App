@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066285283538",
+    "project_id": "versatile-art-309819",
+    "storage_bucket": "versatile-art-309819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066285283538:android:0e4196af96edfb07ac550b",
+        "android_client_info": {
+          "package_name": "com.avi.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066285283538-qs0ug63dios7v32cgvhj5m9jp53s8s5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avi.firebaseapp",
+            "certificate_hash": "e8bf1c02bca1711d8624d2a8e907d23536ffb913"
+          }
+        },
+        {
+          "client_id": "1066285283538-3rpokh1guvrum738h95ulp6jdj7rc41m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPlOC76Ddxh5p33hwzu0Bw51THrxcNro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066285283538-3rpokh1guvrum738h95ulp6jdj7rc41m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
